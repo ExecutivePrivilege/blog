@@ -3,15 +3,18 @@ layout: post
 title: "Of Political Questions: The nonjusticiability of Congressional subpoena disputes"
 author: "MDA"
 date: 2019-08-21
-url: /blog/2019-08-21-of-political-questions.html
+permalink: /blog/2019-08-21-of-political-questions.html/
 ---
-**INTRODUCTION**
+# INTRODUCTION
+
 With the recent midterm elections, Congressional Democrats have pledged to make use of their subpoena power. This Paper examines the applicability of the political question doctrine to disputes arising from Congressional subpoenas to Executive Branch officials. This Paper is split into three parts. Part-I provides a brief background sketch of the Executive Privilege. Since this Paper is primarily concerned with the prerequisite issue of whether the political question doctrine prevents a court from adjudicating Executive-Congressional subpoena disputes in the first place, and not with the applicability of the Executive Privilege in any particular instance, this Part does not purport to be an exhaustive examination of the precise meaning, scope, or purpose of the Executive Privilege. Part-II examines the applicability of the political question doctrine to disputes arising from an Executive Branch assertion of Executive Privilege in response to a Congressional subpoena. Part-III provides some brief concluding remarks.
 
-**I. EXECUTIVE PRIVILEGE & SETTING THE STAGE**
+## I. EXECUTIVE PRIVILEGE & SETTING THE STAGE
+
 The Executive Privilege is a documentary and testimonial government privilege to withhold certain Executive Branch information from disclosure. This Part briefly sketches the underlying rationale for the Executive Privilege and several historical flashpoints that contributed to its legal development.
 
-**A. The Executive Privilege: An Overview**
+### A. The Executive Privilege: An Overview**
+
 "Since the beginnings of our nation, executive officials have claimed a variety of privileges to resist disclosure of information the confidentiality of which they felt was crucial to fulfillment of the unique role and responsibilities of the executive branch of our government."[^1] Among the types of information the Executive Privilege protects are state or military secrets,[^2] information and communications related to the deliberative process of Executive Branch decision-making,[^3] and Presidential communications.[^4] The common thread binding the information the Executive Privilege protects is the need for confidentiality. The rationale for shielding this information is intuitive. In order to effectively exercise the duties and powers of his office, the President and close advisors must be permitted to speak candidly. "Human experience teaches that those who expect public dissemination of their remarks may well temper candor with a concern for appearances and for their own interests to the detriment of the decisionmaking process."[^5] The underlying benefits of candor and shielding the decision-making process are so great that the privilege even extends beyond communications to which the President is a party, and includes "communications made by presidential advisers in the course of preparing advice for the President . . . even when these communications are not made directly to the President."[^6] The Executive Privilege, then, protects not only sensitive communications and information, but also the integrity of the decision-making process itself.
 
 Critics of the Executive Privilege contend that the Privilege can be used to shield government wrongdoing and potentially illegal conduct.[^7] But that concern is not unique to the Executive Privilege. "All of the constitutional provisions that impose restrictions on law enforcement and on the prosecution of crimes fall into the same category."[^8] The Fourth Amendment's "exclusionary rule generates 'substantial social costs,' *United States v. Leon*, 468 U. S. 897, 907 (1984), which sometimes include setting the guilty free and the dangerous at large."[^9] The Fifth Amendment's protection against self-incrimination, inevitably stands in the way of eliciting confessions from criminal suspects in a custodial interrogation; the requirement that a suspect be read Miranda warnings "[i]n some unknown number of cases . . . will return a killer, a rapist or other criminal to the streets . . . to repeat his crime."[^10] Moreover, the Sixth Amendment's speedy trial guarantee carries with it "the unsatisfactorily severe remedy of dismissal of the indictment when the right has been deprived,"[^11] which "means that a defendant who may be guilty of a serious crime will go free, without having been tried."[^12] In all of these cases, "[t]he criminal goes free, if he must, but it is the law that sets him free."[^13]
@@ -20,7 +23,8 @@ In addition to Constitutional guarantees, recognized legal privileges protecting
 
 The consequences that even the slightest erosion of candor in Presidential decision-making would have are incalculable. Most of the analysis in this regard centers on the impact such erosion would have on the President's advisers' willingness to communicate candidly with the President if their remarks were subject to public disclosure. But the President, too, would also be affected. A President naturally inclined to receiving a multitude of views might insist on excluding from deliberations people whose ideas could be perceived as publicly unpopular. This exclusion would likely result from the common perception that "those trusted members of the President's inner circle 'who customarily meet with the President on a regular or frequent basis,' . . . are in many ways an extension of the President himself."[^19] Any unpopular or mildly controversial views brought up during the deliberative process would be imputed to the President himself. In such a situation, it would not be unreasonable for a President to perceive that diversity of thought might carry too much political risk. But "[w]hile the separation of powers may prevent us from righting every wrong, it does so in order to ensure that we do not lose liberty."[^20] The potentiality for abuse, therefore, is not enough to override the protections a privilege affords.
 
-**B. The Modern Failure of Vindicating the President**
+### B. The Modern Failure of Vindicating the President
+
 While the Executive Privilege tends to receive public attention only when its invocation is tied to a criminal investigation, "Presidential claims of a right to preserve the confidentiality of information and documents [have] figured more prominently in executive-congressional relations."[^21] The history of Executive Branch refusals to supply requested or subpoenaed information to the Congress has been extensively documented.[^22] For most of our history, "the House and Senate relied on their own institutional power to not only enforce congressional subpoenas, but also to respond to other actions that either house viewed as obstructing their legislative processes or prerogatives."[^23] It was not until 183 years after the Founding, in 1973 and in the midst of Watergate, that the Senate Select Committee on Presidential Campaign Activities filed "the first civil action to enforce a congressional subpoena issued to the executive."[^24]
 
 In the District Court,[^25] President Richard M. Nixon argued that the dispute constituted a political question not suitable for judicial resolution.[^26] The District Court rejected this argument, holding that the D.C. Circuit's reasoning in Nixon v. Sirica,[^27] which "involve[ed] a grand jury subpoena"[^28] to the President, was "equally applicable to the subpoena of a congressional committee."[^29] Furthermore, after applying the tests outlined in Baker v. Carr,[^30] the seminal political question doctrine case, the District Court concluded that there was "no doubt that the issues presented in the instant controversy are justiciable."[^31]
@@ -29,7 +33,9 @@ The District Court's analysis—the sum total of which amounted to a mere three 
 
 First, *Nixon v. Sirica* did not address, and did not purport to address, the political question doctrine at all. In fact, the only place the phrase "political question" even appears is in the dissent.[^32] The "reasoning" of Nixon v. Sirica to which the District Court referred, then, is neither readily apparent nor accompanied by a pinpoint citation.[^33] Even if *Nixon v. Sirica* did address the political question doctrine issue, its reasoning would not be "equally applicable to the subpoena of a congressional committee."[^34] Such a notion is premised upon the assumption that Judicial subpoenas and Congressional subpoenas are constitutionally indistinct. This assumption, as detailed *infra*, is wrong. Second, a faithful application of Baker results in the conclusion that Congressional-Executive subpoena disputes are nonjusticiable. These are the issues to which I now turn.
 
-**II. THE POLITICAL QUESTION DOCTRINE**
+
+## II. THE POLITICAL QUESTION DOCTRINE
+
 
 The political question doctrine is a species of justiciability, and "is primarily a function of the separation of powers."[^35] As a result, the political question doctrine "prevents federal courts from overstepping their constitutionally defined role."[^36] In *Baker v. Carr*, the Supreme Court identified six indicia of the presence of a political question:
 
@@ -39,11 +45,11 @@ In the main, "[t]hese tests are probably listed in descending order of both impo
 
 In the context of a Congressional subpoena fight for Executive Branch information, the first two factors—textual commitment and judicially discoverable and manageable standards—are the most relevant. While textual commitment and judicial standards constitute two independent factors, they are "not completely separate . . . ; the lack of judicially manageable standards may strengthen the conclusion that there is a textually demonstrable commitment to a coordinate branch."[^42] That the six factors may not be entirely independent of each other demonstrates "the necessity for discriminating inquiry into the precise facts and posture of the particular case, and the impossibility of resolution by any semantic cataloguing."[^43] Any examination of this issue must, therefore, be mindful of even minor distinctions between even the most granular of details. The issues of textual commitment and judicial standards are examined in turn.
 
-**A. Textual Commitment**
+### A. Textual Commitment
 
 The textual commitment to which *Baker* refers is the degree to which the text of the Constitution commits a particular action to one of the three Branches. Thus, under this factor, a court "must, in the first instance, interpret the text in question and determine whether and to what extent the issue is textually committed."[^44] I first begin with an analysis of the text itself and then examine whether our Nation's history and tradition comport with the text.[^45]
 
-**1. Textual Analysis**
+#### 1. Textual Analysis
 
 The Constitution explicitly refers to Executive Branch information, and under what circumstances it shall be provided to Congress. Article II, section 3,[^46] states of the President, in part, that "He shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient . . . ." The comma after the word "Union" separates this provision into two clauses, the first of which is referred to as the "State of the Union Clause," and the second of which is referred to as the "Recommendation Clause."[^47] This Paper focuses on the former for purposes of the textual commitment analysis.
 
@@ -81,11 +87,11 @@ Importantly, Mason understood Congress's discretion to establish inferior courts
 
 Mason's comparison of Article III's Vesting Clause and the State of the Union Clause also raises the question of what the different respective textual impacts the modal verbs "shall" and "may" have on the phrase "from time to time." Indeed, if each clause in the Constitution is to be given effect, then it cannot be assumed that "shall from time to time" means the same thing as "may from time to time." The modal verb in this situation functions as a tiebreaker. So, for example, if the President determines that giving the Congress certain information will serve the public interest, then the Constitution, pursuant to the use of the duty-imposing "shall," requires him to give such information. On the flip side, if, pursuant to Article III's Vesting Clause, Congress decides that establishing additional inferior courts would serve the public interest, the Constitution, due to the use of the permissive "may," authorizes the Congress to do so, but does not require it, and contemplates the taking of no action as an acceptable outcome under such circumstances.
 
-**2. History and Tradition Confirm the President's Unlimited Discretion**
+#### 2. History and Tradition Confirm the President's Unlimited Discretion
 
 Our Nation's history and tradition further confirm the findings of the textual analysis above. This section examines the statements of authoritative Constitutional commentators, as well as the empirical relationship between the Executive and Legislative Branches.
 
-**i. Authoritative Legal Commentators Did Not Doubt the Executive's Discretion**
+##### i. Authoritative Legal Commentators Did Not Doubt the Executive's Discretion
 
 The President's discretion in giving information to the Congress was never seriously questioned by any of the oft-cited 19th century legal commentators. To the extent it was discussed at all,[^94] the State of the Union Clause was seen as conferring an Executive duty, and arising from the fact that the Executive tends to have access to a wider swath of information, particularly regarding the execution of the laws.[^95] Moreover, these commentators did not perceive the State of the Union Clause as a dragnet, and instead identified particular information to which the duty extended.
 
@@ -101,7 +107,7 @@ William Howard Taft, the only person to ever serve as both the President and Chi
 
 The positions of these commentators can be distilled into two principles. First, as Tucker and Story suggest, the only information to which the Congress may legitimately have a claim is information that serves a legislative purpose, such as how laws could be improved. Second, Rawle and Taft make the case that it is within the President's exclusive prerogative to determine whether certain confidential information can, consistent with the public interest, be properly transmitted to the Congress. I next examine whether these principles were merely words on the respective pages of legal treatises, or whether they embody values by which the Executive- Congressional relationship has been historically governed.
 
-**ii. Empirical Executive-Congressional Relationship**
+##### ii. Empirical Executive-Congressional Relationship
 
 As previously noted, it was not until relatively recently that Congress used litigation as a strategy for enforcing a subpoena against a coordinate Branch of government. And even since then, the Congress or one of its committees has filed such a case only a handful of times.[^103] One reason for the lack of early litigation could be reflective of the Congress's belief that it did not have the power to compel the Executive Branch to produce information the disclosure of which the President believed would be contrary to the public interest. As former Vermont Federalist Representative James Elliot said in 1809, "[e]very gentleman knows that we have not the power to coerce information; our power is limited to the request."[^104] Another Member of Congress likened the Congress's power to request to the First Amendment's right of petition.[^105]
 
@@ -119,7 +125,7 @@ The Congress has actually continued to recognize the President's legitimate duty
 
 In sum, both the Congress and the President have been relatively consistent in understanding that the President's duty to give information to the Congress of the State of the Union comes with it an inherent discretion to determine whether the communication of any particular piece of information would be consistent with the public interest.
 
-**B. Judicially Discoverable and Manageable Standards**
+### B. Judicially Discoverable and Manageable Standards
 
 Whether there are judicially discoverable and manageable standards in controversies arising from the assertion of Executive privilege in response to a Congressional subpoena has received the most attention from the courts. This particular body of law is by no means extensive, because the number of cases arising from a Congressional subpoena for Executive Branch information is very small. Because cases of this type are seldom decided, arise in the most publicly spectacular fashion, and affect the balance of power between the political branches, the need to not only decide the cases, but to decide them correctly is arguably much more pressing than in other similarly high profile cases.
 
@@ -139,16 +145,18 @@ The purpose of Congressional and Judicial subpoenas is also distinct. "There is 
 
 Thus, separation of powers concerns would be at play in a Congressional-Executive Branch subpoena fight for two reasons. First, the court would be impinging upon the Legislative Branch, because the court would essentially be deciding the appropriate evidentiary and testimonial scope of a Congressional inquiry. Second, the court would be unnecessarily interfering with the Executive Branch's dealings with the Legislative Branch and be making judgment calls about privilege in a proceeding in which a court does not have expertise—namely, a Congressional inquiry. So while judicially issued process and warrants are at the apex of a court's Article III authority, to permit the Judiciary to referee a subpoena battle between the political branches would functionally bestow upon the Judiciary quasi-legislative *and* quasi-executive powers in violation of each Branch's prerogatives.
 
-An unlikely ally in this argument over judicial standards is Archibald Cox, the first Watergate Special Prosecutor, who was fired in the so-called "Saturday Night Massacre." Cox was of the opinion that accommodation, rather than litigation, was the appropriate remedy for these disputes, and that he would "be content to see that the Judicial Branch deny its constitutional power and leave questions of executive privilege vis-à-vis Congress to the ebb and flow of political power."[^155]
+An unlikely ally in this argument over judicial standards is Archibald Cox, the first Watergate Special Prosecutor, who was fired in the so-called "Saturday Night Massacre." Cox was of the opinion that accommodation, rather than litigation, was the appropriate remedy for these disputes, and that he would "be content to see that the Judicial Branch deny its constitutional power and leave questions of executive privilege vis-à-vis Congress to the ebb and flow of political power."[^155]
 
 Cox points to two examples during the Eisenhower administration to demonstrate the difficulty in applying traditional standards to these disputes. The first was President Eisenhower's refusing to hand over documents to Senator Joseph McCarthy's committee that was looking into the Army's loyalty and security program.[^156] The second was a refusal to hand over documents related to the Dixon-Yates contract. In a bit of complete candor, Cox said, "[h]istory will record that President Eisenhower's first refusal was morally and politically justified and that the second was wrong, but I can formulate no rule of law not turning upon judgments of motive and political desirability for distinguishing between them."[^157] And indeed, there appears to be no readily available standards that can legally distinguish these two incidents.
 
 Cox finally observed that there is "little evidence that the nation has suffered from the want of legal power to compel the President to satisfy the demands of Congress to information in the Executive Branch."[^158] Faced with this, the notion that the Judiciary has any business in adjudicating these disputes is wholly untenable.
 
-**III. CONCLUSION***
+## III. CONCLUSION
 
 In sum, the State of the Union Clause confers a qualified Executive duty upon the President. Pursuant to that duty, the President has a corresponding discretion to withhold information from the Congress the disclosure of which he determines would be contrary to the public interest. The State of the Union Clause's history, text, and tradition confirm that the President is to solely exercise this discretion, with no place for Congress. Accordingly, the Executive Branch would likely benefit from deploying the State of the Union Clause if and when it is engaged in litigation with the Congress.
 
+
+**FOOTNOTES**
 
 [^1]: In re Sealed Case (Espy), 121 F.3d 729, 736 (D.C. Cir. 1997).
 [^2]: United Sates v. Reynolds, 345 1 (1953).
