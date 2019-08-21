@@ -156,8 +156,6 @@ Cox finally observed that there is "little evidence that the nation has suffered
 In sum, the State of the Union Clause confers a qualified Executive duty upon the President. Pursuant to that duty, the President has a corresponding discretion to withhold information from the Congress the disclosure of which he determines would be contrary to the public interest. The State of the Union Clause's history, text, and tradition confirm that the President is to solely exercise this discretion, with no place for Congress. Accordingly, the Executive Branch would likely benefit from deploying the State of the Union Clause if and when it is engaged in litigation with the Congress.
 
 
-**FOOTNOTES**
-
 [^1]: In re Sealed Case (Espy), 121 F.3d 729, 736 (D.C. Cir. 1997).
 [^2]: United Sates v. Reynolds, 345 1 (1953).
 [^3]: Espy, 121 F.3d 729.
